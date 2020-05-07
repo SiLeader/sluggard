@@ -16,6 +16,7 @@ setup(
     description='directory packaging tool',
     keywords='packaging, compression, archiving',
     long_description=long_description,
+    url='https://github.com/SiLeader/sluggard',
 
     entry_points={
         'console_scripts': [
